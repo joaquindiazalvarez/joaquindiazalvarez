@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world 👋
 
 <!--
 **joaquindiazalvarez/joaquindiazalvarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,9 @@ Hi, i'm Joaquín and...
   - PIC,
   - Raspberry pi
 ## Currently Working On:
-  - 🔭 <ins>I’m currently working on updating my 4Geeks Projects, and also doing LeetCode **Algorithms** Exercises</ins>
-  - 🌱 <ins>Also, I’m currently reviewing a mix of **Javascript , React and CSS**</ins>
-  - ⚡ <ins>I'm a Linux fan and Ubuntu user( except when playing CS:GO ) :)</ins>
-  - 📫 <ins>**How to reach me:** joaquindiazalvarez@gmail.com</ins>
+  - 🔭 I’m currently working on updating my 4Geeks Projects, and also doing LeetCode <ins>**Algorithms**</ins> Exercises
+  - 🌱 Also, I’m currently reviewing a mix of <ins>**Javascript , React and CSS**</ins>
+  - ⚡ I'm a Linux fan and Ubuntu user( except when playing CS:GO ) :)
+  - 📫 <ins>**How to reach me:**</ins> joaquindiazalvarez@gmail.com
 
 
