@@ -26,7 +26,7 @@ I'm also an Electronics Technician, and i've worked in:
   -PIC,
   -Raspberry pi.
 
-- 🔭 I’m currently working on updating my 4Geeks Projects, and also doing LeetCode Algorithms Excercises
+- 🔭 I’m currently working on updating my 4Geeks Projects, and also doing LeetCode Algorithms Exercises
 - 🌱 I’m currently reviewing a mix of Javascript , React and CSS
 - 📫 How to reach me: joaquindiazalvarez@gmail.com
 
