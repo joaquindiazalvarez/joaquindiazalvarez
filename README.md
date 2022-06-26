@@ -12,22 +12,23 @@ Hi, i'm Joaquín and...
 - ⚡ Fun fact: 
 -->
 Hi, i'm Joaquín and i'm a Junior web developer. Usually working on this tecnologies:
-  -HTML,
-  -CSS,
-  -Bootstrap,
-  -JavaScript,
-  -React,
-  -React Flux,
-  -Python,
-  -Flask,
-  -SqlAlchemy.
+  - HTML
+  - CSS
+  - Bootstrap
+  - JavaScript
+  - React
+  - React Flux
+  - Python
+  - Flask
+  - SqlAlchemy
 I'm also an Electronics Technician, and i've worked in:
-  -Arduino,
-  -PIC,
-  -Raspberry pi.
+  - Arduino
+  - PIC,
+  - Raspberry pi
 
 - 🔭 I’m currently working on updating my 4Geeks Projects, and also doing LeetCode Algorithms Exercises
 - 🌱 I’m currently reviewing a mix of Javascript , React and CSS
+- ⚡ I'm a Linux fan :)
 - 📫 How to reach me: joaquindiazalvarez@gmail.com
 
 
