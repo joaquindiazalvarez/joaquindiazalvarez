@@ -11,7 +11,7 @@ Hi, i'm Joaquín and...
 - 😄 Pronouns: JKN, Cornelius
 - ⚡ Fun fact: 
 -->
-Hi, i'm Joaquín and i'm a Junior web developer. Usually working on this tecnologies:
+## Hi, i'm Joaquín and i'm a Junior web developer. Usually working on this tecnologies:
   - HTML
   - CSS
   - Bootstrap
@@ -21,14 +21,14 @@ Hi, i'm Joaquín and i'm a Junior web developer. Usually working on this tecnolo
   - Python
   - Flask
   - SqlAlchemy
-I'm also an Electronics Technician, and i've worked in:
+## I'm also an Electronics Technician, and i've worked in:
   - Arduino
   - PIC,
   - Raspberry pi
-
-- 🔭 I’m currently working on updating my 4Geeks Projects, and also doing LeetCode Algorithms Exercises
-- 🌱 I’m currently reviewing a mix of Javascript , React and CSS
-- ⚡ I'm a Linux fan :)
-- 📫 How to reach me: joaquindiazalvarez@gmail.com
+## Currently Working On:
+  - 🔭 <ins>I’m currently working on updating my 4Geeks Projects, and also doing LeetCode **Algorithms** Exercises</ins>
+  - 🌱 <ins>Also, I’m currently reviewing a mix of **Javascript , React and CSS**</ins>
+  - ⚡ <ins>I'm a Linux fan and Ubuntu user( except when playing CS:GO ) :)</ins>
+  - 📫 <ins>**How to reach me:** joaquindiazalvarez@gmail.com</ins>
 
 
