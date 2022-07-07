@@ -26,7 +26,7 @@ Hi, i'm Joaquín and...
   - PIC,
   - Raspberry pi
 ## Currently Working On:
-  - 🔭 I’m currently working on a project, which consist on creatin a RESTful API with flask and MySQL. 
+  - 🔭 I’m currently working on a project, which consist on creatin a RESTful API with Node.js and MySQL. 
   - 🌱 And also doing LeetCode <ins>**Algorithms**</ins> Exercises
   - ⚡ I'm a Linux fan and Ubuntu user( except when playing CS:GO ) :)
   - 📫 <ins>**How to reach me:**</ins> joaquindiazalvarez@gmail.com
