@@ -21,6 +21,7 @@ Hi, i'm Joaquín and...
   - Python
   - Flask
   - SqlAlchemy
+  - Django
 ## I'm also an Electronics Technician, and i've worked in:
   - Arduino
   - PIC,
