@@ -11,7 +11,7 @@ Hi, i'm Joaquín and...
 - 😄 Pronouns: JKN, Cornelius
 - ⚡ Fun fact: 
 -->
-## Hi, i'm Joaquín and i'm a Junior web developer. Usually working on this tecnologies:
+## Hi, i'm Joaquín and i'm a Junior web developer. Usually working on this technologies:
   - HTML
   - CSS
   - Bootstrap
