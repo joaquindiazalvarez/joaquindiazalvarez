@@ -22,13 +22,15 @@ Hi, i'm Joaquín and...
   - Flask
   - SqlAlchemy
   - Django
+  - Docker
   - Vue
+  - Node
 ## I'm also an Electronics Technician, and i've worked in:
   - Arduino
   - PIC,
   - Raspberry pi
 ## Currently Working On:
-  - 🔭 I’m currently working on front-end projects.
+  - 🔭 I’m currently working on Docker-Node projects.
   
   - 🌱 And also doing LeetCode <ins>**Algorithms**</ins> Exercises
   - ⚡ I'm a Linux fan and Ubuntu user( except when playing CS:GO ) :)
