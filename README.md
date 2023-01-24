@@ -24,13 +24,13 @@ Hi, i'm Joaquín and...
   - Django
   - Docker
   - Vue
-  - Node
+  - Express
 ## I'm also an Electronics Technician, and i've worked in:
   - Arduino
   - PIC,
   - Raspberry pi
 ## Currently Working On:
-  - 🔭 I’m currently working on Docker-Node projects.
+  - 🔭 I’m studying HTML, CSS and React right now.
   
   - 🌱 And also doing LeetCode <ins>**Algorithms**</ins> Exercises
   - ⚡ I'm a Linux fan and Ubuntu user( except when playing CS:GO ) :)
