@@ -26,7 +26,7 @@ Hi, i'm Joaquín and...
   - STM32
   - Raspberry pi
 ## Currently Working On:
-  - 🔭 I’m studying API RESTful right now.
+  - 🔭 I’m working on two python-stack projects.
   - ⚡ I'm a Linux fan and Ubuntu user( except when playing CS:GO ) :)
   - 📫 <ins>**How to reach me:**</ins> joaquindiazalvarez@gmail.com
 
