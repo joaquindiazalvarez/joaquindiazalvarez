@@ -11,7 +11,7 @@ Hi, i'm Joaquín and...
 - 😄 Pronouns: JKN, Cornelius
 - ⚡ Fun fact: 
 -->
-## Hi, i'm Joaquín and i'm a Web developer. Usually working on this technologies:
+## Hi, i'm Joaquín and i'm a Freelance developer. Usually working on this technologies:
   - Python
   - Django
   - Golang
